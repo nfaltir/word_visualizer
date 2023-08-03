@@ -1,29 +1,29 @@
-Visualizing Words 🧩
-===================
+# Visualizing Words 🧩
+
 
 <br>
 
 <h2>Overview</h2>
 
-This is a simple python app that uses the streamlit framework. User can copy paste a collection of words and python will sort <br> and visualize the most used words.
+This python application uses the streamlit framework to build and serve a web app. User can copy paste a collection of words and python will sort <br> and visualize the most used words. Users can also select a from a handful of themes.
 
 <br>
 
-Run App locally
------------------------
+## Run App locally
+
 
 ```py
-pip3 install -r requirements.txt
 
-streamlit run wordviz.py
+streamlit run app.py
+
 ```
 
 <br>
 
-Live Site
-------------
+## Demo Site
+
 The Streamlit library builds your python code into a web application that you can deploy on the cloud. No HTML, CSS, or JavaScript <br>
-needed! 😃 This is extremely powerful if you are shipping small data projects. 
+needed! 😃 This is extremely powerful if you are shipping small data projects or tools. 
 
 <br>
 
